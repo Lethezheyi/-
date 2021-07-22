@@ -1,17 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T02:32:56.510Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="cjq8H9wP6iXBiGgE2ETN" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T02:35:18.459Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Rq28TLr1YzBYcEx1yAQx" version="14.9.0" type="github">
   <diagram id="cGSGxT3fWc-uQJZhc-VM" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-1" value="四川省总队酒驾管理系统&lt;br&gt;（外网）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="Ck1D1xn7mL9y7Q99Ywc4-31" target="Ck1D1xn7mL9y7Q99Ywc4-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-2" value="四川其它地方市酒驾管理系统（外网）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="Ck1D1xn7mL9y7Q99Ywc4-28" target="Ck1D1xn7mL9y7Q99Ywc4-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -42,9 +36,6 @@
         <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="90" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-25" value="其它地方市酒驾管理系统（内网）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-28" value="边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="190" width="40" height="20" as="geometry" />
         </mxCell>
@@ -52,15 +43,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="200" as="sourcePoint" />
             <mxPoint x="320" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-31" value="边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="450" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Ck1D1xn7mL9y7Q99Ywc4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="Ck1D1xn7mL9y7Q99Ywc4-2" target="Ck1D1xn7mL9y7Q99Ywc4-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="460" as="sourcePoint" />
-            <mxPoint x="320" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
